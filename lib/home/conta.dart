@@ -188,7 +188,7 @@ class Conta extends StatelessWidget{
           ),
         ),
         Center(
-          child: Image.asset('image/propagandaInter.png'),
+          child: Image.asset('images/propagandaInter.png'),
         ),
 
         Padding(
